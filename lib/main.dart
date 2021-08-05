@@ -16,13 +16,14 @@ class MyApp extends StatelessWidget {
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text("welcome to flutter"),
+          title: Text("welcome to website"),
         ),
         body: WebView(
           initialUrl: "https://pub.dev/packages/webview_flutter/example",
           javascriptMode: JavascriptMode.unrestricted,
         ),
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
