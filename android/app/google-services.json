@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723024880455",
+    "project_id": "fir-learningwebapp",
+    "storage_bucket": "fir-learningwebapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723024880455:android:7e081781b729aab4fa6262",
+        "android_client_info": {
+          "package_name": "com.example.web_view_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723024880455-u4fsu24sis6ecb87a6ugfhkv0067biks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5AbB5DgjdQKUed7cAbPj0_82vfkXfVuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723024880455-u4fsu24sis6ecb87a6ugfhkv0067biks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
